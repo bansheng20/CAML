@@ -17,4 +17,5 @@ mini-imagenet - omniglot - FC100
 ## 3. use the code
 
 > cd scrips
+
 > sh search_imagenet.sh
